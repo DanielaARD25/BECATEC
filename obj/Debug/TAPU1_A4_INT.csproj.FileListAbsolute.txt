@@ -1,0 +1,13 @@
+C:\Users\danwe\source\repos\TAPU1_A4_INT\bin\Debug\TAPU1_A4_INT.exe.config
+C:\Users\danwe\source\repos\TAPU1_A4_INT\bin\Debug\TAPU1_A4_INT.exe
+C:\Users\danwe\source\repos\TAPU1_A4_INT\bin\Debug\TAPU1_A4_INT.pdb
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.csproj.AssemblyReference.cache
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.csproj.SuggestedBindingRedirects.cache
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.frmInicio.resources
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.frmBecas.resources
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.Properties.Resources.resources
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.csproj.GenerateResource.cache
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.csproj.CoreCompileInputs.cache
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.exe
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.pdb
+C:\Users\danwe\source\repos\TAPU1_A4_INT\obj\Debug\TAPU1_A4_INT.frmInformacionBeca.resources
